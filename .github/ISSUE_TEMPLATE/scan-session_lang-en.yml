@@ -1,4 +1,4 @@
-name: Scan session
+name: Scan session FR
 description: log session
 title: "[SCAN] sub-xx_ses-yyy_part-FR"
 labels: [scan]
