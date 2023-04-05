@@ -1,6 +1,6 @@
-name: Scan session FR
+name: Scan session EN
 description: log session
-title: "[SCAN] sub-xx_ses-yyy_part-FR"
+title: "[SCAN] sub-xx_ses-yyy_part-EN"
 labels: [scan]
 assignees: 
   - bpinsard
